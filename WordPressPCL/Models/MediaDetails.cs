@@ -24,6 +24,13 @@ namespace WordPressPCL.Models
         /// </summary>
         [JsonProperty("file")]
         public string File { get; set; }
+
+        /// <summary>
+        /// File size
+        /// </summary>
+        [JsonProperty("filesize")]
+        public int FileSize { get; set; }
+
         /// <summary>
         /// Sizes
         /// </summary>
