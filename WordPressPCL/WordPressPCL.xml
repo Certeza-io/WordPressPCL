@@ -1934,6 +1934,11 @@
             File
             </summary>
         </member>
+        <member name="P:WordPressPCL.Models.MediaDetails.FileSize">
+            <summary>
+            File size
+            </summary>
+        </member>
         <member name="P:WordPressPCL.Models.MediaDetails.Sizes">
             <summary>
             Sizes
